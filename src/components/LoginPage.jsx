@@ -13,7 +13,7 @@ const LoginPage = () => {
     var name = e.target.value;
     if (name.length <= 6) {
       // setnameError(true);
-      //kkkkkk
+      //kkkkkksssss
     }
     setName(name);
   };
